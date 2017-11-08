@@ -1,0 +1,12 @@
+Menu
+-Start Game
+-Instructions
+-"Title"
+
+Juego	Listo c:
+
+Seleccion
+-Dos jugadores
+-Opciones
+
+Background 384x384 para que los tiles sean 128x128
