@@ -8,4 +8,5 @@ direction = 180;
 /// @DnDVersion : 1
 /// @DnDHash : 7CE16017
 /// @DnDArgument : "speed" "10"
-speed = 10;
+/// @DnDArgument : "speed_relative" "1"
+speed += 10;
